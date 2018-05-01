@@ -1,3 +1,5 @@
+A short Montana Code School group project and excersize in Google Maps API. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
